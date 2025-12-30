@@ -1,0 +1,21 @@
+baseURL = "/"
+languageCode = "pt-br"
+title = "Postdoc Notes"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  disableThemeToggle = false
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "Sobre"
+    url = "/about/"
+    weight = 2
