@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://spontaneous-semolina-16cc1d.netlify.app/"
 languageCode = "pt-br"
 title = "Postdoc Notes"
 theme = "PaperMod"
